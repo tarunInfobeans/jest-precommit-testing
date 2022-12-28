@@ -1,0 +1,3 @@
+## Jest Testing IN Sequence
+>> The test files without a sequencer would run in random order.
+>> 
